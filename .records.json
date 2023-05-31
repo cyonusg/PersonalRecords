@@ -1,0 +1,138 @@
+[
+    {
+       "id":"PC",
+       "name":"Power clean",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"SC",
+       "name":"Squat clean",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"HSC",
+       "name":"Hang squat clean",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"HHSC",
+       "name":"High hang squat clean",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"HPC",
+       "name":"Hang power clean",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"HHPC",
+       "name":"High hang power clean",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"PS",
+       "name":"Power snatch",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"SN",
+       "name":"Squat snatch",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"HSN",
+       "name":"Hang squat snatch",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"HHSN",
+       "name":"High hang squat snatch",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"HPN",
+       "name":"Hang power snatch",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"HHPN",
+       "name":"High hang power snatch",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"D",
+       "name":"Deadlift",
+       "type":"Weightlifting",
+       "records":[
+
+       ]
+    },
+    {
+       "id":"MS",
+       "name":"Muscle snatch",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"MC",
+       "name":"Muscle clean",
+       "type":"Weightlifting",
+       "records":[
+          
+       ]
+    },
+    {
+       "id":"BS",
+       "name":"Back Squat",
+       "type":"Weightlifting",
+       "records":[
+
+       ]
+    },
+    {
+       "id":"FS",
+       "name":"Front Squat",
+       "type":"Weightlifting",
+       "records":[
+
+       ]
+    }
+ ]
