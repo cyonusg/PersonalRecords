@@ -1,7 +1,7 @@
 # Prr: Personal Records App ()
-## _The simplity of words in your personal records
+## _The simplicity of words in your personal records
 
-Prr is a command line interfaces for save yours personal records for Weigthlifting
+Prr is a command line interface to save your personal records for weightlifting
 
 ## Features
 
@@ -10,15 +10,8 @@ Prr is a command line interfaces for save yours personal records for Weigthlifti
 - List percentages of a record for a movement
 - Create, update, delete a record for a movement
 
-Markdown is a lightweight markup language based on the formatting conventions
-that people naturally use in email.
-As [John Gruber] writes on the [Markdown site][df1]
 
 > This project initial reason is present a proyect for course in a platzi
-
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
 
 ## Installation
 
