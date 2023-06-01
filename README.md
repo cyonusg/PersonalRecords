@@ -1,5 +1,5 @@
 # Prr: Personal Records App ()
-## _The simplicity of words in your personal records
+## The simplicity of words in your personal records
 
 Prr is a command line interface to save your personal records for weightlifting
 
