@@ -1,5 +1,5 @@
 # Prr: Personal Records App ()
-## _The Last Markdown Editor, Ever_
+## _The simplity of words in your personal records
 
 Prr is a command line interfaces for save yours personal records for Weigthlifting
 
